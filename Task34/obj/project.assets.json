@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roman\\OneDrive\\Рабочий стол\\Семинар 5\\Семинар 5.csproj",
-      "projectName": "Семинар 5",
-      "projectPath": "C:\\Users\\roman\\OneDrive\\Рабочий стол\\Семинар 5\\Семинар 5.csproj",
+      "projectUniqueName": "C:\\Users\\roman\\OneDrive\\Рабочий стол\\Семинар 5\\Task34\\Task34.csproj",
+      "projectName": "Task34",
+      "projectPath": "C:\\Users\\roman\\OneDrive\\Рабочий стол\\Семинар 5\\Task34\\Task34.csproj",
       "packagesPath": "C:\\Users\\roman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roman\\OneDrive\\Рабочий стол\\Семинар 5\\obj\\",
+      "outputPath": "C:\\Users\\roman\\OneDrive\\Рабочий стол\\Семинар 5\\Task34\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roman\\AppData\\Roaming\\NuGet\\NuGet.Config"
